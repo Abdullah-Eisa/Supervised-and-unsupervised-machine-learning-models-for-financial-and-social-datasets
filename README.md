@@ -1,9 +1,5 @@
 # Supervised-and-unsupervised-machine-learning-models-for-financial (Abu Dhabi Commercial Bank (ADCB) shuffled dataset)-and-social (Student performance)-datasets
 
-- Applying inferential statistics and EDA to explore ADCB fake dataset using Python.
-
-- Applying data visualization to show insights from data distribution in ADCB dataset.
-
 - Applying inferential statistics and EDA to explore student performance dataset and trying to  predict G3 not given G1, nor G2 using Python.
 
 - Applying data visualization to show insights from data distribution in student performance dataset.
