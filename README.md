@@ -28,6 +28,7 @@
 
 
 - Grades are affected by romantic relationships, in negative correlation.
+
 ![image](https://user-images.githubusercontent.com/63313373/165560761-e9776721-8da7-43dd-8edf-2c7205363f74.png)
 
 ![image](https://user-images.githubusercontent.com/63313373/165560795-0ad5f3c0-3f66-488e-bf28-c3cc65fd914d.png)
