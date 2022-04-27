@@ -1,4 +1,4 @@
-# Supervised-and-unsupervised-machine-learning-models-for-financial (Abu Dhabi Commercial Bank (ADCB) shuffled dataset)-and-social (Student performance)-datasets
+# Supervised-and-unsupervised-machine-learning-models-for social (Student performance)-datasets
 
 - Applying inferential statistics and EDA to explore student performance dataset and trying to  predict G3 not given G1, nor G2 using Python.
 
